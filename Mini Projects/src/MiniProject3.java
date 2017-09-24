@@ -9,11 +9,11 @@ public class MiniProject3 {
 		victoryIsMineTopBottomAndMiddle();
 	}
 		public static void victoryIsMineTopBottomAndMiddle() {
-			System.out.println("////////////////////");
-			System.out.println("||Victory is mine!||");
-			System.out.println("////////////////////");
+			System.out.println("//////////////////////");
+			System.out.println("|| Victory is mine! ||");
+			System.out.println("//////////////////////");
 }
 		public static void victoryIsMinePartialSectionSection() {
-		System.out.println("||Victory is mine!||");
+		System.out.println("|| Victory is mine! ||");
 		}
 }
