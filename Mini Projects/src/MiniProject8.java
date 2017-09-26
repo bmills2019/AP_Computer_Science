@@ -1,6 +1,10 @@
 import java.util.Scanner;
-//this calculates various properties of a sphere using a radius inputed by the user
 
+/*
+ * Mini Project 8
+ * Brandon Mills
+ * this calculates various properties of a sphere using a radius inputed by the user
+ */
 public class MiniProject8 {
 	Double Radius;
 	Double Diameter;

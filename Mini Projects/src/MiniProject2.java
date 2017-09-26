@@ -1,4 +1,8 @@
-
+/*
+ * Mini Project 2
+ * Brandon Mills
+ * //This prints out some random text about Java Programs
+ */
 public class MiniProject2 {
 //This prints out some random text about Java Programs
 	public static void main(String[] args) {

@@ -1,5 +1,10 @@
 import java.util.Scanner;
-//this generates an estimated weight based upon your height
+
+/*
+ * Mini Project 10
+ * Brandon Mills
+ * this generates an estimated weight based upon your height
+ */
 public class MinProject10 {
 		int Height;
 		double MaleWeight;

@@ -1,6 +1,10 @@
-
+/*
+ * Mini Project 6
+ * Brandon Mills
+ * prints a random assortment of stars and lines
+ */
 public class MiniProject6 {
-//prints a random assortment of stars and lines
+
 	public static void main(String[] args) {
 		Top();
 		Middle();

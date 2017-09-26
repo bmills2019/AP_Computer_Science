@@ -1,6 +1,10 @@
-
+/*
+ * Mini Project 3
+ * Brandon Mills
+ * Prints Victory is Mine several times
+ */
 public class MiniProject3 {
-//Prints Victory is Mine several times
+
 	public static void main(String[] args) {
 		victoryIsMineTopBottomAndMiddle();
 		victoryIsMinePartialSectionSection();

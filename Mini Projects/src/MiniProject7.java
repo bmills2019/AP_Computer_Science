@@ -1,4 +1,8 @@
-
+/*
+ * Mini Project 7
+ * Brandon Mills
+ * //This prints out some text about escape sequences
+ */
 public class MiniProject7 {
 
 	public static void main(String[] args) {

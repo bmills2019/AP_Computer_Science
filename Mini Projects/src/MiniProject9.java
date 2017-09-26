@@ -1,5 +1,10 @@
 import java.util.Scanner;
-//This calculates the area of a trapezoid
+
+/*
+ * Mini Project 9
+ * Brandon Mills
+ * This calculates the area of a trapezoid
+ */
 public class MiniProject9 {
 		Double Height;
 		Double Bottom;

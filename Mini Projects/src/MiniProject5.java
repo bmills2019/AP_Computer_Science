@@ -1,6 +1,10 @@
-
+/*
+ * Mini Project 5
+ * Brandon Mills
+ * Prints a bunch of stars
+ */
 public class MiniProject5 {
-//Prints a bunch of starts
+
 	public static void main(String[] args) {
 		top();
 		middle();

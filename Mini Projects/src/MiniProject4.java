@@ -1,6 +1,10 @@
-
+/*
+ * Mini Project 4
+ * Brandon Mills
+ * This prints a rocket saying hello world
+ */
 public class MiniProject4 {
-//This prints a rocket saying hello world
+
 	public static void main(String[] args) {
 		topAndBottom();
 		minusAndPlusLine();
