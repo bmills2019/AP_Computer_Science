@@ -26,6 +26,6 @@ public class MathClassPractice {
 	 int partialmax=Math.max(x, y);//calculates biggest number
 	 return Math.max(partialmax,z);
 	 
-	 //pls kill me
+	 
  }
 }
